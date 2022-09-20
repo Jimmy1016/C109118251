@@ -24,3 +24,9 @@ print(s)
 |col3 is|right-aligned|$1600|
 |col2 is|centered|$12|
 |zrbra stripes|are neat|$1|
+
+|**Markdown**  |**Less**  |**Pretty**  |
+|:-----|:---|:-------|
+|still|`renders`|**nicely**|
+|col2 is|centered|$12|
+|1|2|3|
