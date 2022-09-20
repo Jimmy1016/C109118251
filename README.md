@@ -18,3 +18,9 @@ s= 'this is a example'
 print(s)
 ```
 😂 😂 😂
+
+|Tables  |Are  |Cool  |
+|:-----|:---:|-------:|
+|col3 is|right-aligned|$1600|
+|col2 is|centered|$12|
+|zrbra stripes|are neat|$1|
