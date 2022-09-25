@@ -9,10 +9,12 @@
 [NKUST](http://www.nkust.edu.tw)
 
 ---
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+---
 
 Emphasis, aka italics,with asterisks or underscores.  
 Strong emphasis, aka bold, with **asterisks** or **underscores**.  
-Combined emphasis with **asterisks and underscores**.  
+Combined emphasis with **asterisks** **and** ***underscores***.  
 Strinkethrough uses two tildes.~~Scratch this~~.  
 
 ---
@@ -61,8 +63,7 @@ raw Markdown line up prettily.You can also use inline Markdown.
 
 |**Markdown**  |**Less**  |**Pretty**  |
 |:-----|:---|:-------|
-|still|`renders`|**nicely**|
-|col2 is|centered|$12|
+|*still*|`renders`|**nicely**|
 |1|2|3|
 
 ---
